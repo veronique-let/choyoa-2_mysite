@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "choyoa-2_mysite",
+    "title": "Veronique Letourneau",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nlibrary(usethis)"
+    "text": "Welcome to my personal website I have created for my ENVS 193DS class at UCSB!\n---"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#a-little-about-me-and-my-background",
+    "href": "index.html#a-little-about-me-and-my-background",
+    "title": "Veronique Letourneau",
+    "section": "A little about me and my background:",
+    "text": "A little about me and my background:\nMy name is Veronique Letourneau and I like to go by V . I am a SBCC transfer student currently completing my fourth year in Environmental Studies at UCSB. As lucky as I am to be able to attend this University, I cannot wait to hop into the “real” world after graduation!\n---\nI have tons of hobbies and interests apart from my field of study, but one thing I absolutely love in life is being able to travel and capture my experiences through photography."
   }
 ]

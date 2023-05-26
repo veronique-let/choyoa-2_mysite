@@ -1,14 +1,34 @@
 ---
-title: "choyoa-2_mysite"
+title: "Veronique Letourneau"
 project:
   type: website
   output-dir: docs
+image: headshot.jpeg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: Twitter
+      href: https://twitter.com/l76789
+    - text: Instagram
+      href: https://instagram.com/sweetronnie__?igshid=OGQ5ZDc2ODk2ZA== 
+    - text: GitHub
+      href: https://github.com/veronique-let
+    - text: Email
+      href: veronique@ucsb.edu
 ---
 
-This is a Quarto website.
+## Hey there! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website I have created for my ENVS 193DS class at UCSB!
 
-```{r set-up}
-library(usethis)
-```
+\-\--
+
+## A little about me and my background:
+
+My name is Veronique Letourneau and I like to go by *V* . I am a SBCC transfer student currently completing my fourth year in Environmental Studies at UCSB. As lucky as I am to be able to attend this University, I cannot wait to hop into the "real" world after graduation!
+
+\-\--
+
+I have tons of hobbies and interests apart from my field of study, but one thing I absolutely love in life is being able to travel and capture my experiences through photography.

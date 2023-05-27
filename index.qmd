@@ -5,8 +5,8 @@ project:
   output-dir: docs
 image: headshot.jpeg
 about: 
-  template: trestles
-  image-shape: round
+  template: solana
+  image-shape: rounded
   image-width: 23em
   links:
     - text: Twitter
@@ -16,19 +16,22 @@ about:
     - text: GitHub
       href: https://github.com/veronique-let
     - text: Email
-      href: veronique@ucsb.edu
+      href: mailto::veronique@ucsb.edu
 ---
 
-## Hey there! 
+## **Hey there!**
 
 Welcome to my personal website I have created for my ENVS 193DS class at UCSB!
 
-\-\--
+---
 
 ## A little about me and my background:
 
 My name is Veronique Letourneau and I like to go by *V* . I am a SBCC transfer student currently completing my fourth year in Environmental Studies at UCSB. As lucky as I am to be able to attend this University, I cannot wait to hop into the "real" world after graduation!
 
-\-\--
+---
 
-I have tons of hobbies and interests apart from my field of study, but one thing I absolutely love in life is being able to travel and capture my experiences through photography.
+## What you will find on my page
+
+I have tons of hobbies and interests apart from my field of study, but one thing I absolutely love in life is being able to travel and capture my experiences through photography. 
+And there is no better feeling than sharing it others! So I welcome you to scroll through my tabs to see thru my lens :)

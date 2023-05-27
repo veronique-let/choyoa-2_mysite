@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About my travels"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I have tons of hobbies and interests apart from my field of study, but one thing I absolutely love in life is being able to travel and capture my experiences through photography.

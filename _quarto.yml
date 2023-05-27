@@ -3,19 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "choyoa-2_mysite"
+  title: "A trip down memory lane"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - costa-rica-2021.qmd
+      - peru-2022.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: slate
     css: styles.css
     toc: true
-
-editor: visual
+    page-layout: full
+    
  
-

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "choyoa-2_mysite"
@@ -16,4 +17,5 @@ format:
     toc: true
 
 editor: visual
+ 
 
